@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<data>
+  <executeFlg>1</executeFlg>
+  <amazonUrl>https://www.amazon.co.jp/</amazonUrl>
+  <loginId>fltkazclily@gmail.com</loginId>
+  <loginPassword>m2e3n4r5pp1114</loginPassword>
+  <lineApiToken>Fkw3cofDAmoqdnEfFgNpTHnPBmjwcMjXrYYBi6Zr17l</lineApiToken>
+  <lineApiUrl>https://notify-api.line.me/api/notify</lineApiUrl>
+  <purchaseHistoryUrl>https://www.amazon.co.jp/gp/your-account/order-history</purchaseHistoryUrl>
+</data>
